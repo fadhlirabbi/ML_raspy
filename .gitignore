@@ -1,0 +1,3 @@
+*.tflite
+*.bmp
+__pycache__/
